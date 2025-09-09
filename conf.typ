@@ -72,8 +72,6 @@
 ) = {
   show raw: set text(
     font: "JetBrainsMono NF",
-    ligatures: false,
-    features: (calt: 0)
   )
 
   show raw.where(block: true): code => {
