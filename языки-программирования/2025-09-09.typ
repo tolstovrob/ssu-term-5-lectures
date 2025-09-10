@@ -202,7 +202,7 @@ fun sq(x: int): int = x * x
 
 val l = [1, 2, 3]
 val l_sq = map(sq, l)
-val l_qu = map(sq o sq, l)
+val l_qu =  map(sq o sq, l)
 ```
 
 == Анонимные функции
