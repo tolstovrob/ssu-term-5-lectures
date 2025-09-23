@@ -16,3 +16,4 @@
 #include "intro.typ"
 #include "2025-09-03.typ"
 #include "2025-09-10.typ"
+#include "2025-09-17.typ"
