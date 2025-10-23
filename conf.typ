@@ -90,8 +90,6 @@
     fill: gradient.linear(rgb("#6ec080"), rgb("#1b7ab4"), angle: 45deg)
   )
 
-  set heading(numbering: "1.", supplement: none)
-  
   set text(
     font: "Cambria",
     size: 14pt,
